@@ -1,0 +1,57 @@
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.pdb
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Form1.resources
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Properties.Resources.resources
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe.config
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Form1.resources
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Properties.Resources.resources
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe.config
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.pdb
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csprojResolveAssemblyReference.cache
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Form1.resources
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Properties.Resources.resources
+C:\Users\KKK\Desktop\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe.config
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.pdb
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csprojResolveAssemblyReference.cache
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Form1.resources
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Properties.Resources.resources
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\bin\Debug\WarGUI.exe.config
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.exe
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.pdb
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\bin\Debug\WarGUI.exe
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\bin\Debug\WarGUI.pdb
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\BlankleyAndrewWarGUI.csprojResolveAssemblyReference.cache
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.Form1.resources
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.Properties.Resources.resources
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
+E:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\bin\Debug\MetroFramework.dll
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\bin\Debug\WarGUI.exe.config
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.exe
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.pdb
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\bin\Debug\WarGUI.exe
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\bin\Debug\WarGUI.pdb
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\BlankleyAndrewWarGUI.csprojResolveAssemblyReference.cache
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.Form1.resources
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.Properties.Resources.resources
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.Betting.resources
+F:\프로젝트\WarGUI-CSharp-CardGame-master\WarGUI-CSharp-CardGame-master\BlankleyAndrewWarGUI\201263035송영진\obj\x86\Debug\WarGUI.start.resources

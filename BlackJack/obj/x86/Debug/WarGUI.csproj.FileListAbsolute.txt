@@ -1,0 +1,8 @@
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\obj\x86\Debug\WarGUI.Form1.resources
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\obj\x86\Debug\WarGUI.Properties.Resources.resources
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\obj\x86\Debug\WarGUI.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\bin\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\bin\Debug\WarGUI.pdb
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\Andrew\Desktop\WarGUI\WarGUI\WarGUI\obj\x86\Debug\WarGUI.csprojResolveAssemblyReference.cache
